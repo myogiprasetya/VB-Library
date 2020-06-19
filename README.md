@@ -1,8 +1,4 @@
 # VB Libary
-Libary for Visual Basic Framework 4.8
-
-
-# VB Libary
 ## Description
 **VB Libary** adalah sekumpulan class library yang digunakan untuk memudahkan saat pembuatan aplikasi berbasi Visual Basic Framework 4.8.
 
