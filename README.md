@@ -1,6 +1,6 @@
 # VB Libary
 ## Description
-**VB Libary** adalah sekumpulan class library yang digunakan untuk memudahkan saat pembuatan aplikasi berbasis Visual Basic .NET Framework 4.8.
+**VB Library** adalah sekumpulan class library yang digunakan untuk memudahkan saat pembuatan aplikasi berbasis Visual Basic .NET Framework 4.8.
 
 ## Built with
 - [Visual Studio 2017](https://visualstudio.microsoft.com/)
