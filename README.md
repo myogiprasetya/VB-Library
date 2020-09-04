@@ -1,4 +1,4 @@
-# VB Libary
+# VB Library
 ## Description
 **VB Library** adalah sekumpulan class library yang digunakan untuk memudahkan saat pembuatan aplikasi berbasis Visual Basic .NET Framework 4.8.
 
